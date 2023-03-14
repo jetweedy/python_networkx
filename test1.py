@@ -57,3 +57,8 @@ nx.draw(g, pos=node_positions, edge_color=edge_colors, node_size=10, node_color=
 plt.title('Graph Representation of Sleeping Giant Trail Map', size=15)
 plt.show()
 
+"""
+Stopping Point:
+
+https://www.datacamp.com/tutorial/networkx-python-graph-tutorial#overview-of-cpp-algorithm
+"""
